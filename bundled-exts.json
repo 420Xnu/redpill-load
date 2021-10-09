@@ -1,6 +1,3 @@
 {
-  "thethorgroup.boot-wait": "https://raw.githubusercontent.com/420Xnu/redpill-boot-wait/master/rpext-index.json",
-  "pocopico.mpt2sas": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt2sas/rpext-index.json",
-  "pocopico.mpt3sas": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptsas/rpext-index.json",
-  "pocopico.mptsas": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt2sas/rpext-index.json"
+  "timcook.mpt2sas": "https://raw.githubusercontent.com/TimCook1/rp-ext/master/mpt2sas/rpext-index.json"
 }
